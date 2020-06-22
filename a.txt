@@ -3,5 +3,10 @@ git
 git
 123
 456
+<<<<<<< HEAD
 master branch test
 
+=======
+789
+color
+>>>>>>> color
